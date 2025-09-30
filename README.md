@@ -1,2 +1,3 @@
 # web-portal
-Repository for web-portal project
+
+This repository contains the source code for the web-portal project.
